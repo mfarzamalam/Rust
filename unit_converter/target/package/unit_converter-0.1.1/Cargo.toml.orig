@@ -1,0 +1,12 @@
+[package]
+name = "unit_converter"
+description = "This is a binary converter library. all you have to do is call the function in this way (converter::meter_kilometer). Let's break it down what is happening here. The first word (converter) is the file name and after the double colon (::) you use the converter from this to that. Conversion from meter to kilometer written as meter_kilometer, Similarly you want to convert kilometer to nanometer you call the function converter::kilometer_nanometer"
+version = "0.1.1"
+authors = ["farzam alam"]
+edition = "2018"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+read_input = "0.8.2"

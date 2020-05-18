@@ -1,0 +1,1 @@
+/home/odin/Documents/Myrust/unit_converter/target/package/converter_at_home-0.1.2/target/debug/libconverter_at_home.rlib: /home/odin/Documents/Myrust/unit_converter/target/package/converter_at_home-0.1.2/src/lib.rs
